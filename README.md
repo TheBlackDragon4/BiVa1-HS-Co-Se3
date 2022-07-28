@@ -16,8 +16,8 @@ Hiermit möchte ich ausdrücklich darauf hinweisen, dass ich das eigenständige 
 
 ## Sonstiges:
 
-Programm: Eclipse
-<br>SDK: 15.0.1</br>
+Programm: Jupyter Notebook
+Sprache: Python 3.8.8
 
 Link zum Moodle Raum:
 [Hier der Link zum BiVa1 Moodlekurs](https://moodle.hs-coburg.de/course/view.php?id=8947)
